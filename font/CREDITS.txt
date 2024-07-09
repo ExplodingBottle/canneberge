@@ -1,0 +1,5 @@
+Font MorePerfectDOSVGA.ttf comes from https://laemeur.sdf.org/fonts/
+Thanks to everyone who contributed to this font.
+
+No attempts to claim ownership on the MorePerfectDOSVGA.ttf font are present
+in this project.

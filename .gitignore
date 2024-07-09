@@ -1,0 +1,6 @@
+.vscode
+*.o
+*.elf
+*.bin
+font/ttf2c
+kernel/src/sysfont.c
