@@ -28,6 +28,6 @@ typedef struct userland_header_t userland_header_t;
     }
 
 /* Target kernel version, must be changed with each releases */
-#define KERNEL_VERSION "22.2.0"
+#define KERNEL_VERSION "23.2.3"
 
 #endif
